@@ -1,0 +1,1 @@
+docker run -dP -v $(pwd)/workdir:/workdir -p 8022:22 --name=flm_crypto dockodocker/centos7
